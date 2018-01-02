@@ -1,12 +1,12 @@
-p.title {color:#FFD700; font: 20pt TF2 Build; text-align: center; line-height: 70%;}
-h2.title {color:#E6E6E6; font: 20pt TF2 Build; text-align: center; line-height: 70%;}
-p.classname {color:#E6E6E6; font: 20pt TF2 Build; text-align: center; line-height: 70%;}
-p.class_landing {color:#FFD700; font: 16pt TF2 Build; text-align: center; line-height: 25%;} 
-p.desc {color:#B2B2B2; font: 14pt TF2 Helvetica; text-align: center; line-height: 70%;}  
-p.desc_landingpage {color:#595959; font: 13pt Bookman; text-align: center; line-height: 70%;}  
-p.neu {color:#EBE2CA; font: 14pt Helvetica; text-align: center; line-height: 70%;}
-p.pos {color:#99CCFF; font: 14pt Helvetica; text-align: center; line-height: 70%;}
-p.neg {color:#FF4040; font: 14pt Helvetica; text-align: center; line-height: 70%;}
+p.title {color:#FFD700; font: 20pt TF2 Build; text-align: center; line-height: 85%;}
+h2.title {color:#E6E6E6; font: 20pt TF2 Build; text-align: center; line-height: 85%;}
+p.classname {color:#E6E6E6; font: 20pt TF2 Build; text-align: center; line-height: 85%;}
+p.class_landing {color:#FFD700; font: 16pt TF2 Build; text-align: center; line-height: 50%;} 
+p.desc {color:#B2B2B2; font: 14pt TF2 Helvetica; text-align: center; line-height: 85%;}  
+p.desc_landingpage {color:#595959; font: 13pt Bookman; text-align: center; line-height: 85%;}  
+p.neu {color:#EBE2CA; font: 14pt Helvetica; text-align: center; line-height: 85%;}
+p.pos {color:#99CCFF; font: 14pt Helvetica; text-align: center; line-height: 85%;}
+p.neg {color:#FF4040; font: 14pt Helvetica; text-align: center; line-height: 85%;}
 hr {color:#E6E6E6; size="5";} 
 u {color:#E6E6E6;}
 img.center {
