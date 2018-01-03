@@ -1,3 +1,8 @@
+<style type="text/css">
+@font-face {
+    font-family: "TF2 Build";
+    src: url(fonts/tf2build.ttf) format("truetype");
+}
 p.title {color:#FFD700; font: 20pt TF2 Build; text-align: center; line-height: 95%;}
 h2.title {color:#E6E6E6; font: 20pt TF2 Build; text-align: center; line-height: 95%;}
 p.classname {color:#E6E6E6; font: 20pt TF2 Build; text-align: center; line-height: 95%;}
@@ -13,3 +18,5 @@ img.center {
     display: block;
     margin: 0 auto;
 }
+
+
