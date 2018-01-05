@@ -1,14 +1,18 @@
 <style type="text/css">
 @font-face {
-    font-family: "TF2 Build";
-    src: url(fonts/tf2build.ttf) format("truetype");
+    font-family: 'tf2_buildtf2_build';
+    src: url('fonts/tf2build-webfont.woff2') format('woff2'),
+		url('fonts/tf2build-webfont.ttf') format('truetype'),
+		url('fonts/tf2build-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 p.title {color:#FFD700; font: 20pt TF2 Build; text-align: center; line-height: 95%;}
 h2.title {color:#E6E6E6; font: 20pt TF2 Build; text-align: center; line-height: 95%;}
 p.classname {color:#E6E6E6; font: 20pt TF2 Build; text-align: center; line-height: 95%;}
 p.class_landing {color:#FFD700; font: 16pt TF2 Build; text-align: center; line-height: 50%;} 
 p.desc {color:#B2B2B2; font: 14pt Helvetica; text-align: center; line-height: 95%;}  
-p.desc_landingpage {color:#595959; font: 13pt Bookman; text-align: center; line-height: 95%;}  
+p.desc_landingpage {color:#696969; font: 13pt Bookman; text-align: center; line-height: 95%;}  
 p.neu {color:#EBE2CA; font: 14pt Helvetica; text-align: center; line-height: 95%;}
 p.pos {color:#99CCFF; font: 14pt Helvetica; text-align: center; line-height: 95%;}
 p.neg {color:#FF4040; font: 14pt Helvetica; text-align: center; line-height: 95%;}
