@@ -9,11 +9,25 @@ p.classname {color:#E6E6E6; font: 20pt TF2 Build; text-align: center; line-heigh
 p.class_landing {color:#FFD700; font: 16pt TF2 Build; text-align: center; line-height: 50%;} 
 p.desc {color:#B2B2B2; font: 13pt Helvetica; text-align: center; line-height: 95%;}  
 p.desc_landingpage {color:#878787; font: 13pt Bookman; text-align: center; line-height: 95%;}  
+p.desc_credits {color:#878787; font: 12pt Bookman;}  
 p.neu {color:#EBE2CA; font: 13pt Helvetica; text-align: center; line-height: 95%;}
 p.pos {color:#99CCFF; font: 13pt Helvetica; text-align: center; line-height: 95%;}
 p.neg {color:#FF4040; font: 13pt Helvetica; text-align: center; line-height: 95%;}
+p.highlight {color:#FFD700; font: 12pt Bookman;}
 hr {color:#E6E6E6; size="5";} 
 u {color:#E6E6E6;}
-a {color:#FFD700;}
-
+a {color:#FFD700; text-decoration: none;}
+.concise {margin-right: 10%; margin-left: 10%;}
+.iconholder {
+    background: #FFD700;
+    height: 40px;
+    width: 40px;
+    padding: 4px;
+    float: left;
+    border-radius: 3px;
+}
+.iconholder > img {
+	width: 40px;
+	height: 40px;
+}
 
