@@ -3,6 +3,10 @@
    font-family: TF2 Build;
    src: url(fonts/tf2build.ttf);
 }
+@font-face {
+   font-family: TF2 Secondary;
+   src: url(fonts/TF2secondary.ttf);
+}
 p.title {color:#FFD700; font: 20pt TF2 Build; text-align: center; line-height: 85%;}
 h2.title {color:#E6E6E6; font: 20pt TF2 Build; text-align: center; line-height: 85%;}
 p.classname {color:#E6E6E6; font: 20pt TF2 Build; text-align: center; line-height: 95%;}
@@ -16,7 +20,8 @@ p.neg {color:#FF4040; font: 13pt Helvetica; text-align: center; line-height: 85%
 span.neu {color:#EBE2CA; font: 13pt Helvetica; text-align: center; line-height: 75%;}
 span.pos {color:#99CCFF; font: 13pt Helvetica; text-align: center; line-height: 75%;}
 span.neg {color:#FF4040; font: 13pt Helvetica; text-align: center; line-height: 75%;}
-p.highlight {color:#FFD700; font: 12pt Bookman;}
+p.highlight {color:#FFD700; font: 13pt Bookman;}
+p.creditname {color:#FFD700; font: 13pt TF2 Secondary;}
 hr {color:#E6E6E6; size="5";} 
 u {color:#E6E6E6;}
 a {color:#FFD700; text-decoration: none;}
