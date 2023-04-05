@@ -25,7 +25,8 @@ p.creditname {color:#FFD700; font: 13pt TF2 Secondary;}
 hr {color:#E6E6E6; size="5";} 
 u {color:#E6E6E6;}
 a {color:#FFD700; text-decoration: none;}
-.concise {margin-right: 10%; margin-left: 10%;}
+.concise {margin-right: 25%; margin-left: 25%;}
+.iconsconcise {margin-right: 10%; margin-left: 30%;}
 .iconholder {
     background: #FFD700;
     height: 40px;
@@ -37,5 +38,18 @@ a {color:#FFD700; text-decoration: none;}
 .iconholder > img {
 	width: 40px;
 	height: 40px;
+}
+.column {
+  float: left;
+  width: 50%;
+}
+.creditscolumn {
+  float: left;
+  width: 30%;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
